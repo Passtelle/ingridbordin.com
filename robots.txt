@@ -1,0 +1,7 @@
+# robots.txt — ingridbordin.com
+# All content is indexable; nothing to block on this single-page portfolio.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://ingridbordin.com/sitemap.xml
